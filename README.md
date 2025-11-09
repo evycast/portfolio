@@ -1,10 +1,10 @@
-# Portfolio de Brian Zelada
+# Portfolio de Evelyn Castellano
 
 ¡Bienvenido a mi portfolio!
 
-En este proyecto, podrás ver una selección de mis trabajos, información sobre mí como desarrollador web y una sección de contacto.
+En este proyecto, podrás ver una selección de mis trabajos, información sobre mí y una sección de contacto.
 
-## [👉 Ver Portfolio](https://brianzelada.vercel.app/)
+## [👉 Ver Portfolio](https://evelyncastellano.vercel.app/)
 
 ## Tecnologías Utilizadas
 
@@ -13,9 +13,9 @@ En este proyecto, podrás ver una selección de mis trabajos, información sobre
 
 ## Contacto
 
-- **Correo electrónico:** brian.zelada99@gmail.com
-- **Web:** [Portfolio](https://brianzelada.vercel.app/)
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/brianzelada/)
-- **GitHub:** [Perfil de GitHub](https://github.com/ZBrian99)
+- **Correo electrónico:** evelyncastellano1999@gmail.com
+- **Web:** [Portfolio](https://evelyncastellano.vercel.app/)
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/evelyncastellano/)
+- **GitHub:** [Perfil de GitHub](https://github.com/evycast)
 
 ¡Gracias por visitar mi portfolio! 🚀

@@ -18,13 +18,13 @@
 			"type": "en desarrollo",
 			"category": "fullstack",
 			"link": "https://inclusiva.vercel.app/",
-			"repository": "https://github.com/ZBrian99/inclusiva"
+			"repository": "https://github.com/evycast/inclusiva"
 		},
 		{
 			"name": "Intima Estética",
 			"description": "Ecommerce de servicios de estética combinado con sitio informativo. Implementación de SSR/SSG/ISR para SEO optimizado.",
 			"link": "https://estetica-intima.vercel.app/",
-			"repository": "https://github.com/ZBrian99/estetica-intima",
+			"repository": "https://github.com/evycast/estetica-intima",
 			"images": ["/projects/intima.webp"],
 			"technologies": [
 				"Next.js",
@@ -45,7 +45,7 @@
 			"name": "Fit Gym",
 			"description": "Sistema completo de gestión de clientes con control de acceso IoT. Incluye registro de pagos, inscripciones y control automático de puerta.",
 			"link": "https://gym-access.up.railway.app/",
-			"repository": "https://github.com/ZBrian99/demo-gym",
+			"repository": "https://github.com/evycast/demo-gym",
 			"images": ["/projects/gym.webp"],
 			"technologies": ["React", "Nest.js", "PostgreSQL", "Material UI", "TypeScript", "Redux", "Prisma", "Socket.IO"],
 			"type": "freelance",
@@ -55,7 +55,7 @@
 			"name": "Shiatsu X el Mundo ",
 			"description": "Plataforma de gestión de cursos con formularios personalizables, inscripciones, sistema de referidos para vendedores y reportes en Excel.",
 			"link": "https://demo-courses.up.railway.app/login",
-			"repository": "https://github.com/ZBrian99/demo-courses",
+			"repository": "https://github.com/evycast/demo-courses",
 			"images": ["/projects/cursos.webp"],
 			"technologies": ["React", "Nest.js", "PostgreSQL", "Material UI", "TypeScript", "Redux", "Prisma"],
 			"type": "freelance",
@@ -63,10 +63,10 @@
 		},
 		{
 			"name": "InterUp",
-			"description": "Página web personal para ofrecer servicios como desarrollador freelance. Diseño moderno con temática espacial y microinteracciones.",
+			"description": "Página web personal para ofrecer servicios como desarrolladora freelance. Diseño moderno con temática espacial y microinteracciones.",
 			"link": "https://interup.up.railway.app/",
 			"images": ["/projects/interup.webp"],
-			"repository": "https://github.com/ZBrian99/interup",
+			"repository": "https://github.com/evycast/interup",
 			"technologies": ["Astro", "TypeScript", "Tailwind"],
 			"type": "profesional",
 			"category": "frontend"
@@ -75,7 +75,7 @@
 			"name": "Todo App",
 			"description": "Aplicación de lista de tarea con persistencia en localStorage, filtros de busqueda, tags y diseño moderno.",
 			"link": "https://evy-todo-app.vercel.app/",
-			"repository": "https://github.com/ZBrian99/todo-app",
+			"repository": "https://github.com/evycast/todo-app",
 			"images": ["/projects/todoapp.webp"],
 			"technologies": ["Next.js", "React", "TypeScript", "Tailwind"],
 			"type": "personal",
@@ -86,7 +86,7 @@
 			"description": "Landing page moderna para pizzería con diseño atractivo, animaciones y efectos parallax. Incluye menu, precios y logros.",
 			"link": "https://pipzum.vercel.app/",
 			"images": ["/projects/pipzum.webp"],
-			"repository": "https://github.com/ZBrian99/pizzeria",
+			"repository": "https://github.com/evycast/pizzeria",
 			"technologies": ["React", "Sass"],
 			"type": "personal",
 			"category": "frontend"
@@ -96,7 +96,7 @@
 			"description": "Rediseño de la página de campeones de league of legends con información detallada, filtros y visualización de historias, habilidades y skins.",
 			"link": "https://leagueoflegendsrework.vercel.app/champions/",
 			"images": ["/projects/lol.webp"],
-			"repository": "https://github.com/ZBrian99/league_of_legends_rework",
+			"repository": "https://github.com/evycast/league_of_legends_rework",
 			"technologies": ["React", "Styled Components"],
 			"type": "personal",
 			"category": "frontend"

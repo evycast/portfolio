@@ -53,6 +53,7 @@ const HeroImage = styled.img`
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
+  object-position: top;
 	border-radius: 50%;
 	box-shadow: 0 0 1rem 0.5rem rgba(0, 0, 0, 0.1);
 `;
@@ -98,7 +99,6 @@ const PhotoLink = styled.a`
 const PhotoIcon = styled.img`
 	width: 70%;
 	height: 70%;
-
 	${({ rounded }) => rounded && `border-radius: 50%;`}
 	${({ fit }) => fit && `object-fit: cover;`}
 `;
@@ -106,16 +106,16 @@ const PhotoIcon = styled.img`
 export const HeroPhoto = () => {
 	return (
 		<HeroImageContainer>
-			<PhotoLink href={'https://github.com/ZBrian99'} target='_blank' rel='noopener noreferrer'>
+			<PhotoLink href={'https://github.com/evycast'} target='_blank' rel='noopener noreferrer'>
 				<PhotoIcon src={'/icons/github-icon.svg'} alt='github' />
 			</PhotoLink>
-			<PhotoLink href={'https://www.linkedin.com/in/brianzelada/'} target='_blank' rel='noopener noreferrer'>
+			<PhotoLink href={'https://www.linkedin.com/in/evelyncastellano/'} target='_blank' rel='noopener noreferrer'>
 				<PhotoIcon src={'/icons/linkedin-icon.svg'} alt='linkedin' />
 			</PhotoLink>
-			<PhotoLink href={'https://www.linkedin.com/in/brianzelada/'} target='_blank' rel='noopener noreferrer'>
-				<PhotoIcon rounded src={'/icons/x.svg'} alt='x' />
+			<PhotoLink href={'https://www.instagram.com/evy.cast/'} target='_blank' rel='noopener noreferrer'>
+				<PhotoIcon rounded src={'/icons/ig.svg'} alt='instagram' />
 			</PhotoLink>
-			<HeroImage src='/images/rf2low.webp' alt='photo' />
+			<HeroImage src='/images/me6.webp' alt='me' />
 		</HeroImageContainer>
 	);
 };

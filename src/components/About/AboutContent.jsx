@@ -25,13 +25,13 @@ export const AboutContent = () => {
 	return (
 		<ContentContainer>
 			<Paragraph>
-				Como desarrollador Full Stack autodidacta, he transformado{' '}
+				Como desarrolladora Full Stack autodidacta, he transformado{' '}
 				<Highlight>necesidades reales en soluciones prácticas y efectivas</Highlight>. Desde e-commerce, sistemas de
 				gestión de cursos con inscripciones personalizadas y sistemas de referidos, hasta integraciones IoT, cada
 				proyecto ha sido un paso más en mi crecimiento profesional.
 			</Paragraph>
 			<Paragraph>
-				Mi stack principal incluye <Highlight>Next.js, React, NestJS y Node.js</Highlight>, con los que construyo
+				Mi stack principal incluye <Highlight>Next.js, React, NestJS y PostgreSQL</Highlight>, con los que construyo
 				aplicaciones web completas. Mi experiencia abarca desde el diseño e implementación de interfaces modernas
 				hasta el desarrollo de APIs y la gestión de bases de datos.{' '}
 				<Highlight>

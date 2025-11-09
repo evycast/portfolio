@@ -120,7 +120,7 @@ export const ContactInfo = () => {
 					<Icon>✉️</Icon>
 					<ContactItemInfo>
 						<Title>Correo electrónico</Title>
-						<Text>brian.zelada99@gmail.com</Text>
+						<Text>evelyncastellano1999@gmail.com</Text>
 					</ContactItemInfo>
 				</ContactItem>
 				<ContactItem>
@@ -141,14 +141,14 @@ export const ContactInfo = () => {
 			</ContactItemsContainer>
 
 			<ContactSocialContainer>
-				<PhotoLink href={'https://github.com/ZBrian99'} target='_blank' rel='noopener noreferrer'>
+				<PhotoLink href={'https://github.com/evycast'} target='_blank' rel='noopener noreferrer'>
 					<PhotoIcon src={'/icons/github-icon.svg'} alt='github' />
 				</PhotoLink>
-				<PhotoLink href={'https://www.linkedin.com/in/brianzelada/'} target='_blank' rel='noopener noreferrer'>
+				<PhotoLink href={'https://www.linkedin.com/in/evelyncastellano/'} target='_blank' rel='noopener noreferrer'>
 					<PhotoIcon src={'/icons/linkedin-icon.svg'} alt='linkedin' />
 				</PhotoLink>
-				<PhotoLink href={'https://www.linkedin.com/in/brianzelada/'} target='_blank' rel='noopener noreferrer'>
-					<PhotoIcon rounded src={'/icons/x.svg'} alt='x' />
+				<PhotoLink href={'https://www.instagram.com/evy.cast/'} target='_blank' rel='noopener noreferrer'>
+					<PhotoIcon rounded src={'/icons/ig.svg'} alt='instagram' />
 				</PhotoLink>
 			</ContactSocialContainer>
 		</ContactInfoContainer>

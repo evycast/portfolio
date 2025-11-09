@@ -71,10 +71,10 @@ const HeroInfoContainer = styled.div`
 		align-items: flex-start;
 		font-size: 0.75em;
 	}
-	@media screen and (min-width: 60rem) {
+	@media screen and (min-width: 62rem) {
 		font-size: 0.9em;
 	}
-	@media screen and (min-width: 65rem) {
+	@media screen and (min-width: 70rem) {
 		font-size: 1em;
 	}
 `;
@@ -83,19 +83,24 @@ const HeroWelcome = styled.p`
 	font-size: 2.2em;
 	animation: fadeInRight 0.7s cubic-bezier(0.22, 1, 0.36, 1) forwards;
   @media screen and (min-width: 24rem) {
-    font-size: 2.7em;
+    font-size: 2.6em;
 	}
 `;
 
 const HeroTitle = styled.h1`
-  font-size: 3em;
+	font-size: 3em;
 	animation: fadeInRight 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.15s forwards;
 	opacity: 0;
-	@media screen and (min-width: 24rem) {
-    font-size: 4em;
+	@media screen and (min-width: 40rem) {
+		font-size: 4em;
 	}
+
 	@media screen and (min-width: 50rem) {
-		white-space: nowrap;
+		font-size: 3.5em;
+    white-space: nowrap;
+    }
+    @media screen and (min-width: 54rem) {
+      font-size: 4em;
 	}
 `;
 
@@ -105,15 +110,13 @@ const HeroSubtitle = styled.h2`
 	opacity: 0;
 	@media screen and (min-width: 24rem) {
     white-space: nowrap;
-		font-size: 2.6em;
+		font-size: 2.5em;
 	}
 	@media screen and (min-width: 25.5rem) {
-		font-size: 2.6em;
+		font-size: 2.5em;
 	}
-	@media screen and (min-width: 50rem) {
-		font-size: 2.9em;
-	}
-	@media screen and (min-width: 52rem) {
+	
+	@media screen and (min-width: 54rem) {
 		font-size: 3em;
 	}
 `;
@@ -161,10 +164,10 @@ export const Hero = () => {
 			<HeroInfoContainer>
 				<HeroWelcome>Hola 👋</HeroWelcome>
 				<HeroTitle>
-					Soy <HighlightText>Brian </HighlightText>Zelada
+					Soy <HighlightText>Evelyn </HighlightText>Castellano
 				</HeroTitle>
 				<HeroSubtitle>
-					<HighlightText>Desarrollador Full Stack</HighlightText> 💻
+					<HighlightText>Desarrolladora Full Stack</HighlightText> 💻
 				</HeroSubtitle>
 				<HeroExtra>
 					Transformo ideas en <HighlightText>soluciones web a medida</HighlightText>

@@ -67,7 +67,7 @@ export const About = () => {
 					<GlowButtonAlt
 						fit
 						stretch
-						href='https://drive.google.com/file/d/1vBzqTPoXH_TZqrlb83tRb-AgSsP1nl7m/view'
+						href='https://drive.google.com/file/d/1HeqWupyClPZnJshSrzuAID44UKMuRE8e/view'
 						target='_blank'
 						rel='noreferrer'
 					>

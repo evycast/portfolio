@@ -246,7 +246,7 @@ export const Navbar = () => {
 		<NavbarStyled ref={navbarRef}>
 			{isMobile ? (
 				<>
-					{/* <NavbarBrandName>Brian Zelada</NavbarBrandName> */}
+					{/* <NavbarBrandName>Evelyn Castellano</NavbarBrandName> */}
 					<NavbarToggle onClick={handleClick}>{isActive ? 'X' : '☰'}</NavbarToggle>
 					<NavbarContainer isActive={isActive}>
 						<NavbarCircle isActive={isActive}>
@@ -263,7 +263,7 @@ export const Navbar = () => {
 								<GlowButtonAlt
 									fit
 									stretch
-									href='https://drive.google.com/file/d/1vBzqTPoXH_TZqrlb83tRb-AgSsP1nl7m/view'
+									href='https://drive.google.com/file/d/1HeqWupyClPZnJshSrzuAID44UKMuRE8e/view'
 									target='_blank'
 									rel='noreferrer'
 								>
@@ -278,7 +278,7 @@ export const Navbar = () => {
 				<NavbarMenu isActive={true}>
 					<NavbarBrandName href='#'>
 						{' '}
-						<HighlightText>Brian</HighlightText> Zelada
+						<HighlightText>Evelyn</HighlightText> Castellano
 					</NavbarBrandName>
 
 					<NavbarItem href='#projects'>Proyectos</NavbarItem>
@@ -287,7 +287,7 @@ export const Navbar = () => {
 					<GlowButtonAlt
 						fit
 						stretch
-						href='https://drive.google.com/file/d/1vBzqTPoXH_TZqrlb83tRb-AgSsP1nl7m/view'
+						href='https://drive.google.com/file/d/1HeqWupyClPZnJshSrzuAID44UKMuRE8e/view'
 						target='_blank'
 						rel='noreferrer'
 					>
